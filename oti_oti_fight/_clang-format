@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+AccessModifierOffset: -3
+AllowShortIfStatementsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: true
+Standard: C++11
+IndentWidth: 4
+SortIncludes: false
