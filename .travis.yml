@@ -1,5 +1,8 @@
 language: cpp
 
+install:
+    - pip install cpplint
+
 script:
     - cpplint ./oti_oti_fight/*.h
     - cpplint ./oti_oti_fight/*.cpp
