@@ -1,3 +1,7 @@
+
+//  Copyright 2016 odanado
+//  Licensed under the MIT License.
+
 #pragma once
 
 #include <Siv3D.hpp>

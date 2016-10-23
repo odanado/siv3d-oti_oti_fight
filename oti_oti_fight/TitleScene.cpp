@@ -1,4 +1,8 @@
-﻿#include "TitleScene.h"
+﻿
+//  Copyright 2016 odanado
+//  Licensed under the MIT License.
+
+#include "TitleScene.h"
 
 namespace oti_oti_fight {
 
