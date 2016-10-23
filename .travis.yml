@@ -1,0 +1,9 @@
+language: cpp
+
+install:
+    - pip install --user cpplint
+
+script:
+    - export FILTER=--filter=-build/include
+    - cpplint $FILTER ./oti_oti_fight/*.h
+    - cpplint $FILTER ./oti_oti_fight/*.cpp
