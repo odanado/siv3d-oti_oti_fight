@@ -1,0 +1,5 @@
+language: cpp
+
+script:
+    - cpplint ./oti_oti_fight/*.h
+    - cpplint ./oti_oti_fight/*.cpp
